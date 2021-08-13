@@ -6,7 +6,7 @@ Au sein du Projet n°3 du parcours [développeur web chez OpenClassrooms](https:
 
 ## Cahier des charges
 
-Un [brief](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P3/Brief%20cre%CC%81atif%20-%20Ohmyfood!.pdf) que vous pouvez consulter nous est fourni détaillant les attentes du client ainsi que les exigences techniques du cahier des charges.
+Un [cahier des charges](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P3/Brief%20cre%CC%81atif%20-%20Ohmyfood!.pdf) que vous pouvez consulter nous est fourni détaillant les attentes du client.
 
 ## Outils et languages pour la réalisation du projet
 
