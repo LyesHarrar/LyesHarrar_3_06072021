@@ -267,6 +267,8 @@ body, html {
   text-decoration: none;
   color: inherit;
   display: block;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  transition: 0.2s;
 }
 .card__img {
   height: 12rem;
@@ -313,6 +315,13 @@ body, html {
 }
 .card__like {
   background-color: white !important;
+}
+.card:hover {
+  -ms-transform: scale(1.019);
+  /* IE 9 */
+  -webkit-transform: scale(1.019);
+  /* Safari 3-8 */
+  transform: scale(1.015);
 }
 
 .header--pourmenupage {

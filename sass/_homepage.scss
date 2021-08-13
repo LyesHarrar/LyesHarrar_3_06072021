@@ -174,7 +174,8 @@
   text-decoration: none;
   color: inherit;
   display: block;
-
+  box-shadow: 0 0 10px 0 rgb(0 0 0 / 30%);
+  transition: .2s;
   &__img {
     height: 12rem;
     width: 100%;
@@ -227,5 +228,10 @@
 
   &__like {
     background-color: white!important;
+  }
+  &:hover {
+    -ms-transform: scale(1.019); /* IE 9 */
+    -webkit-transform: scale(1.019); /* Safari 3-8 */
+    transform: scale(1.015); 
   }
 }
