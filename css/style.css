@@ -255,10 +255,15 @@ body, html {
   grid-template-columns: repeat(1, 1fr);
   column-gap: 2rem;
   row-gap: 2rem;
+  /*   display: flex;
+    flex-direction: column; */
 }
 @media (min-width: 64rem) {
   .cards {
     grid-template-columns: repeat(2, 1fr);
+    /*     display: flex;
+        justify-content: space-between;
+        flex-flow: row wrap; */
   }
 }
 
